@@ -1,6 +1,6 @@
 import scala.io.StdIn.readLine;
 
-object Inventory extends App {
+object InventoryP extends App {
 
   def getProductList: List[String] = {
     def getProductHelper(acc: List[String]): List[String] = {

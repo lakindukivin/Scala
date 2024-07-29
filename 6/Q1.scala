@@ -1,6 +1,6 @@
 import scala.io.StdIn.readInt;
 
-object Inventory extends App {
+object InventoryM extends App {
 
   val inventory1: Map[Int, (String, Int, Double)] = Map(
     101 -> ("Gadjet1", 20, 15.50),
